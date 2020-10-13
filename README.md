@@ -1,2 +1,2 @@
-# CarRacingGame1.0
-Car Racing Game Stage 1.0
+# T-Rex Game
+T-Rex Game remade with camera view
